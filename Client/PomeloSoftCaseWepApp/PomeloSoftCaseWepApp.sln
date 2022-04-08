@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomeloSoftCaseWepApp", "PomeloSoftCaseWepApp\PomeloSoftCaseWepApp.csproj", "{E47773B1-90D8-4836-B5E4-F8DFE2480886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47773B1-90D8-4836-B5E4-F8DFE2480886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47773B1-90D8-4836-B5E4-F8DFE2480886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47773B1-90D8-4836-B5E4-F8DFE2480886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47773B1-90D8-4836-B5E4-F8DFE2480886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52E0F8C-8D8A-4F4D-93F0-A88DB45E6431}
+	EndGlobalSection
+EndGlobal

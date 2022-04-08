@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@model Blogs
+    <div class="row m-5">
+        <div class="col-2">
+        </div>
+        <div class="col-8">
+                <div class="row mb-5">
+                    <div class="card-header">
+                        <h4 class="card-title"></h4>
+                        <div class="d-flex justify-content-end">
+                            @if (Context.Session.GetInt32("user") != null && Context.Session.GetInt32("user") == Model.user.id)
+                            {
+                                <a asp-action="UpdateBlog" asp-controller="Blog" asp-route-id="@Model.id" class="btn btn-success">Blog Düzenle</a>
+                                <a asp-action="DeleteBlog" asp-controller="Blog" asp-route-id="@Model.id" class="btn btn-danger">Blog Sil</a>
+                            }
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-body ">
+                            <div class="profile-uoloaded-post border-bottom-1">
+                                <img src="@configuration["BaseUrl"]@Url.Content(Model.coverImage)" alt="" class="img-fluid w-100 rounded">
+                                <a class="post-title" asp-action="Blog" asp-controller="Home" asp-route-id="@Model.id" style="text-decoration:none;"><h3 class="text-black">@Model.title</h3></a>
+                                <p>
+                                    @Model.description
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted">
+                                <cite>@Model.user.name @Model.user.surname</cite>
+                            </small>
+                            <p class="d-flex justify-content-end">@Model.createDate.Value.ToString("dd MM yyyy")</p>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div class="col-2">
+        </div>
+    </div>

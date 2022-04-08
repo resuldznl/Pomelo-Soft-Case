@@ -1,0 +1,12 @@
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\bin\Debug\net5.0\PomeloSoftCase.Infrastructure.deps.json
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\bin\Debug\net5.0\PomeloSoftCase.Infrastructure.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\bin\Debug\net5.0\ref\PomeloSoftCase.Infrastructure.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\bin\Debug\net5.0\PomeloSoftCase.Infrastructure.pdb
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\obj\Debug\net5.0\PomeloSoftCase.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\obj\Debug\net5.0\PomeloSoftCase.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\obj\Debug\net5.0\PomeloSoftCase.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\obj\Debug\net5.0\PomeloSoftCase.Infrastructure.AssemblyInfo.cs
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\obj\Debug\net5.0\PomeloSoftCase.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\obj\Debug\net5.0\PomeloSoftCase.Infrastructure.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\obj\Debug\net5.0\ref\PomeloSoftCase.Infrastructure.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Infrastructure\PomeloSoftCase.Infrastructure\obj\Debug\net5.0\PomeloSoftCase.Infrastructure.pdb

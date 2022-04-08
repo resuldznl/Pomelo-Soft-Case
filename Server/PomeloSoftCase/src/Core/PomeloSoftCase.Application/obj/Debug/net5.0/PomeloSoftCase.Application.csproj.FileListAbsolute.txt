@@ -1,0 +1,15 @@
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\bin\Debug\net5.0\PomeloSoftCase.Application.deps.json
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\bin\Debug\net5.0\PomeloSoftCase.Application.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\bin\Debug\net5.0\ref\PomeloSoftCase.Application.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\bin\Debug\net5.0\PomeloSoftCase.Application.pdb
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\bin\Debug\net5.0\PomeloSoftCase.Domain.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\bin\Debug\net5.0\PomeloSoftCase.Domain.pdb
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\PomeloSoftCase.Application.csproj.AssemblyReference.cache
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\PomeloSoftCase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\PomeloSoftCase.Application.AssemblyInfoInputs.cache
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\PomeloSoftCase.Application.AssemblyInfo.cs
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\PomeloSoftCase.Application.csproj.CoreCompileInputs.cache
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\PomeloSoftCase.Application.csproj.CopyComplete
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\PomeloSoftCase.Application.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\ref\PomeloSoftCase.Application.dll
+C:\Users\Resul\source\repos\PomeloSoftCase\src\Core\PomeloSoftCase.Application\obj\Debug\net5.0\PomeloSoftCase.Application.pdb
